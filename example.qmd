@@ -8,6 +8,6 @@ editor: visual
 
 This is a Quarto document for demonstrating Git and GitHub usage.
 
-## Changes in main
+## Changes Merged from Both Branches
 
-This line was added in the main branch and should cause a conflict.
+This line was added in the main branch and in the testbranch, now merged.
